@@ -19,9 +19,17 @@
     "@angular/platform-browser": "~9.0.6",
     "@angular/platform-browser-dynamic": "~9.0.6",
     "@angular/router": "~9.0.6",
+    "@progress/kendo-angular-inputs": "^6.5.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.10.2",
+    "@progress/kendo-angular-intl": "^2.0.0",
+    "@progress/kendo-angular-l10n": "^2.0.0",
+    "@progress/kendo-angular-popup": "^3.0.0",
+    "@progress/kendo-angular-common": "^1.0.0",
+    "@progress/kendo-drawing": "^1.5.12",
+    "@angular/localize": "~9.0.6",
+    "@progress/kendo-theme-default": "latest"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.900.6",
